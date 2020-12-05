@@ -1,1 +1,1 @@
-# ch0769.eu.org
+测试域名是否成功blog.eu.org
